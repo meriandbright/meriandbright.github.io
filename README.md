@@ -1,4 +1,4 @@
 ---
-title: Meri & Bright
+title: Meri &amp; Bright
 ---
 ## Welcome
